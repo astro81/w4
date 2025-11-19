@@ -1,0 +1,15 @@
+/home/astro/Documents/code/dotnet/prj/app-1/task6/obj/Debug/net10.0/task6.GeneratedMSBuildEditorConfig.editorconfig
+/home/astro/Documents/code/dotnet/prj/app-1/task6/obj/Debug/net10.0/task6.AssemblyInfoInputs.cache
+/home/astro/Documents/code/dotnet/prj/app-1/task6/obj/Debug/net10.0/task6.AssemblyInfo.cs
+/home/astro/Documents/code/dotnet/prj/app-1/task6/obj/Debug/net10.0/task6.csproj.CoreCompileInputs.cache
+/home/astro/Documents/code/dotnet/prj/app-1/task6/obj/Debug/net10.0/task6.sourcelink.json
+/home/astro/Documents/code/dotnet/prj/app-1/task6/bin/Debug/net10.0/task6
+/home/astro/Documents/code/dotnet/prj/app-1/task6/bin/Debug/net10.0/task6.deps.json
+/home/astro/Documents/code/dotnet/prj/app-1/task6/bin/Debug/net10.0/task6.runtimeconfig.json
+/home/astro/Documents/code/dotnet/prj/app-1/task6/bin/Debug/net10.0/task6.dll
+/home/astro/Documents/code/dotnet/prj/app-1/task6/bin/Debug/net10.0/task6.pdb
+/home/astro/Documents/code/dotnet/prj/app-1/task6/obj/Debug/net10.0/task6.dll
+/home/astro/Documents/code/dotnet/prj/app-1/task6/obj/Debug/net10.0/refint/task6.dll
+/home/astro/Documents/code/dotnet/prj/app-1/task6/obj/Debug/net10.0/task6.pdb
+/home/astro/Documents/code/dotnet/prj/app-1/task6/obj/Debug/net10.0/task6.genruntimeconfig.cache
+/home/astro/Documents/code/dotnet/prj/app-1/task6/obj/Debug/net10.0/ref/task6.dll
